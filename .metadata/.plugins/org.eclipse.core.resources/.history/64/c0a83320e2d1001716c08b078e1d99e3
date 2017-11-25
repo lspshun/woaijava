@@ -1,0 +1,5 @@
+package 字符串性能比较测试;
+
+public class StringComparePerformance {
+
+}

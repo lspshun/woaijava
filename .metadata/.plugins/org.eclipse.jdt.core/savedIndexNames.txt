@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+D:\woaijava\.metadata\.plugins\org.eclipse.jdt.core
+3678980623.index
+3719988610.index
+1317688307.index
+3930511455.index

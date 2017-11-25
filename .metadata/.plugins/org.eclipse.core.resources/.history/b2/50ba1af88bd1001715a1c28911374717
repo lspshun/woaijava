@@ -1,0 +1,13 @@
+package javastack;
+
+// 栈是vector(向量)的一个子类,实现了一个标准的后进先出的栈
+//堆栈只定义了默认构造函数,用来创造一个空栈
+
+public class StackDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

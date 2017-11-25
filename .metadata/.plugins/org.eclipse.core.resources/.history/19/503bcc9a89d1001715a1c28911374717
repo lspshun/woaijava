@@ -1,0 +1,18 @@
+package Ã¶¾Ù;
+
+import java.util.Enumeration;
+import java.util.Vector;
+
+public class EnumerationTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Enumeration<String> days;
+		Vector<String> dayNames = new Vector<String>();
+		dayNames
+		
+		
+
+	}
+
+}

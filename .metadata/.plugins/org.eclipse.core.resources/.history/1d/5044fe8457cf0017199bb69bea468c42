@@ -1,0 +1,27 @@
+package 方法;import java.security.acl.LastOwnerException;
+
+public class PrintTriangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PrintScore a = new PrintScore();
+		int lastNum;
+		lastNum = a.printRightTriangle(5);
+		System.out.println("最后一个值:"+lastNum);
+	}
+	public int printRightTriangle (int n) {
+		int last = 0;
+		for (int i = 1; i < n; i++) {
+			for (int j = 0; j < i; j++) {
+				last++;
+				System.out.printf("%02d ",last);
+				
+			}
+			System.out.println();
+		}
+		return last;
+		
+		
+	}
+
+}

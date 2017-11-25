@@ -1,0 +1,11 @@
+package 方法;
+
+public class 实参形参 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}

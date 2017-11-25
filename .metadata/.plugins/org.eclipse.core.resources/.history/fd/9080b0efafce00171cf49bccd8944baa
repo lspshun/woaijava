@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package ¿ØÖÆÓï¾ä;
+
+/**
+ * @author li
+ *
+ */
+public class Sum {
+
+	/**
+	 * 
+	 */
+	public Sum() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

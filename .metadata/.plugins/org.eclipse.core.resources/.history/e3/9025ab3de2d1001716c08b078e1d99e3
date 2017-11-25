@@ -1,0 +1,5 @@
+package 测试两个字符串区域是否相等;
+
+public class StringRegionMatch {
+
+}
